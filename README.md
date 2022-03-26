@@ -1,4 +1,13 @@
-![Antaeseon's github stats](https://github-readme-stats.vercel.app/api?username=Antaeseon&show_icons=true&theme=merko)
+# Hi! I'm Taeseon An!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Taeseon's Github&fontSize=90" />
+
+
+### Github stats!
+![Antaeseon's github stats](https://github-readme-stats.vercel.app/api?username=Antaeseon&show_icons=true&theme=tokyonight)
+
+
+
+
 <!--
 **Antaeseon/Antaeseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
