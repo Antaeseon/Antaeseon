@@ -4,16 +4,16 @@
 ## About me
 👨‍💻 I'm Backend Engineer.
 
-📚 I like reading books.
+<!-- 📚 I like reading books. -->
 
-## Github stats!
+<!-- ## Github stats!
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=antaeseon&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=antaeseon&show_icons=true&theme=tokyonight" alt="Antaeseon's github stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=antaeseon" alt="visitors">
-</div>
+</div> -->
 
 <!-- <div align=center><h1>📚 Tech STACKS</h1></div> -->
 ## 🛠️ Skills
