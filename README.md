@@ -1,4 +1,4 @@
-# Hi! I'm Taeseon An!
+# Hi! I'm Taeseon An! 💻
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Taeseon's Github&fontSize=90" />
 
 
